@@ -1,1 +1,3 @@
-- (NSString *)getName {};
+- (NSString *)getName {
+    NSLog(@"ABC");
+};
